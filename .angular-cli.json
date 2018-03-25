@@ -54,7 +54,10 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+    "styleExt": "sass",
     "component": {}
-  }
+  },
+  "styles": [
+    "sass/styles.sass"
+  ]
 }
